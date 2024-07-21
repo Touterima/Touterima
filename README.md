@@ -1,6 +1,5 @@
 # 💫 About Me:
-📚 J'ai de l'expérience avec : JAVA , SprinBoot , Angular<br><br>🏆 Mes réalisations : Application web de Covoiturage / Application web de gestion parc informatique / Application mobile qui intègre la classification des images<br><br>📫 Comment me contacter : @Mail: rimatoute1@gmail.com    Linkedin: [Rima Toute](https://www.linkedin.com/in/rima-toute-926572201) <br><br>💻 Mes intérêts : Développement web /Développement d'applications mobiles / Programmation orientée objet (POO)<br><br>🎨 Mes passions : Musique , Lecture et Jardinage<br><br>🔍 Ce que je cherche : Alternance en programmation pour continuer mes études en cycle ingénieur tout en acquérant de l'expérience.
-
+📚 J'ai de l'expérience avec : JAVA , SprinBoot , Angular<br><br>📫 Comment me contacter : @Mail: rimatoute1@gmail.com    Linkedin: [Rima Toute](https://www.linkedin.com/in/rima-toute-926572201) <br><br>💻 Mes intérêts : Développement web /Développement d'applications mobiles / Programmation orientée objet (POO)<br><br>
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-RimaToute-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rima-toute-926572201/)
