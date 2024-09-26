@@ -35,7 +35,18 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <br>
 <br>
+<div align=center>
+  
+# 🏆 GitHub Trophies
+</div>
 
+![](https://github-profile-trophy.vercel.app/?username=Touterima&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+<br>
+
+<div align=center>
+  
 # 📊 GitHub Stats
 </div>
 <div align=center>
@@ -46,12 +57,7 @@
 </div>
 
 <br>
-<div align=center>
-  
-# 🏆 GitHub Trophies
-</div>
 
-![](https://github-profile-trophy.vercel.app/?username=Touterima&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
