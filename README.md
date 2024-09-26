@@ -1,9 +1,13 @@
 
 <div align=center>
+  
   # 💫 About Me:
 </div>
+
 ***📚 I have professional experience*** with Java, Spring Boot, and Angular.
+
 ***🔭 I’m currently working*** on a Warehouse Management System project.
+
 ***🌱 I’m currently learning*** microservices architecture, including its principles, patterns, and best practices for building scalable and efficient distributed systems.
 
 ## 🌐 Socials:
